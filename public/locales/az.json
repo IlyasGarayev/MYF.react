@@ -1,0 +1,115 @@
+{
+  "nav": {
+    "home": "Əsas Səhifə",
+    "about": "Festival Haqqında",
+    "program": "Festival Proqramı",
+    "news": "Xəbərlər",
+    "partners": "Tərəfdaşlar",
+    "sponsorship": "Sponsorluq",
+    "pastFestivals": "Keçmiş Festivallar",
+    "gallery": "Foto/Videoqalereya",
+    "ozYurdunuQur": "Öz Yurdunu Qur",
+    "contact": "Əlaqə"
+  },
+  "common": {
+    "readMore": "Daha çox oxu",
+    "viewAll": "Hamısına bax",
+    "loading": "Yüklənir...",
+    "error": "Xəta baş verdi",
+    "submit": "Göndər",
+    "cancel": "Ləğv et",
+    "close": "Bağla",
+    "next": "Növbəti",
+    "previous": "Əvvəlki",
+    "page": "Səhifə",
+    "of": "dən",
+    "views": "baxış",
+    "date": "tarix"
+  },
+  "home": {
+    "heroTitle": "Milli Yaylaq Festivalı",
+    "heroSubtitle": "Azərbaycanın ən böyük milli festivalı",
+    "aboutSection": {
+      "title": "Festival Haqqında",
+      "description": "Milli Yaylaq Festivalı Azərbaycanın ən böyük və ən maraqlı milli festivalıdır. Bu festival milli mədəniyyətimizi, adət-ənənələrimizi və tariximizi qoruyub saxlamaq məqsədi ilə keçirilir."
+    },
+    "ozYurdunuQurSection": {
+      "title": "Öz Yurdunu Qur",
+      "description": "Festivalda iştirak etmək üçün öz çadırınızla gəlib orada gecələmək imkanı əldə edin. Təbiətlə ünsiyyət qurun və unudulmaz xatirələr yaşayın."
+    },
+    "volunteerSection": {
+      "title": "Könüllü Ol",
+      "description": "Festivalın uğurla keçirilməsi üçün könüllü kimi iştirak edin və böyük bir ailənin üzvü olun."
+    },
+    "latestNews": "Son Xəbərlər",
+    "partners": "Festival Tərəfdaşları"
+  },
+  "about": {
+    "title": "Festival Haqqında",
+    "content": "Milli Yaylaq Festivalı Azərbaycanın ən böyük və ən maraqlı milli festivalıdır. Bu festival milli mədəniyyətimizi, adət-ənənələrimizi və tariximizi qoruyub saxlamaq məqsədi ilə keçirilir. Festival zamanı zəngin mədəni proqram, konsertlər, sərgilər və müxtəlif fəaliyyətlər təşkil edilir."
+  },
+  "program": {
+    "title": "Festival Proqramı",
+    "day": "Gün",
+    "time": "Vaxt",
+    "event": "Tədbir",
+    "location": "Məkan",
+    "description": "Təsvir"
+  },
+  "news": {
+    "title": "Xəbərlər",
+    "noNews": "Hələ ki xəbər yoxdur",
+    "publishedOn": "Nəşr tarixi",
+    "viewCount": "baxış sayı"
+  },
+  "partners": {
+    "title": "Tərəfdaşlar",
+    "filterBy": "Filtrlə",
+    "all": "Hamısı",
+    "category": "Kateqoriya"
+  },
+  "sponsorship": {
+    "title": "Sponsorluq",
+    "content": "Milli Yaylaq Festivalının sponsoru olmaq istəyirsinizsə, bizimlə əlaqə saxlayın.",
+    "contactNumber": "Əlaqə nömrəsi: +994 XX XXX XX XX"
+  },
+  "pastFestivals": {
+    "title": "Keçmiş Festivallar",
+    "noFestivals": "Hələ ki keçmiş festival məlumatı yoxdur"
+  },
+  "gallery": {
+    "title": "Foto/Videoqalereya",
+    "sections": "Bölmələr",
+    "noMedia": "Hələ ki media faylı yoxdur"
+  },
+  "ozYurdunuQur": {
+    "title": "Öz Yurdunu Qur",
+    "subtitle": "Festivalda çadırınızla qalın",
+    "form": {
+      "name": "Ad",
+      "surname": "Soyad",
+      "phone": "Əlaqə Nömrəsi",
+      "idPhoto": "Şəxsiyyət Vəsiqəsinin Ön Hissəsinin Şəkli",
+      "namePlaceholder": "Adınızı daxil edin",
+      "surnamePlaceholder": "Soyadınızı daxil edin",
+      "phonePlaceholder": "+994 XX XXX XX XX",
+      "chooseFile": "Fayl seçin",
+      "submitButton": "Müraciət göndər"
+    },
+    "success": "Müraciətiniz uğurla göndərildi!",
+    "error": "Xəta baş verdi. Yenidən cəhd edin."
+  },
+  "contact": {
+    "title": "Əlaqə",
+    "address": "Ünvan",
+    "phone": "Telefon",
+    "email": "E-poçt",
+    "socialMedia": "Sosial Media"
+  },
+  "footer": {
+    "description": "Milli Yaylaq Festivalı - Azərbaycanın ən böyük milli festivalı",
+    "quickLinks": "Sürətli Keçidlər",
+    "followUs": "Bizi izləyin",
+    "rights": "Bütün hüquqlar qorunur"
+  }
+}

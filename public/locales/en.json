@@ -1,0 +1,115 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Festival",
+    "program": "Festival Program",
+    "news": "News",
+    "partners": "Partners",
+    "sponsorship": "Sponsorship",
+    "pastFestivals": "Past Festivals",
+    "gallery": "Photo/Video Gallery",
+    "ozYurdunuQur": "Build Your Camp",
+    "contact": "Contact"
+  },
+  "common": {
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "close": "Close",
+    "next": "Next",
+    "previous": "Previous",
+    "page": "Page",
+    "of": "of",
+    "views": "views",
+    "date": "date"
+  },
+  "home": {
+    "heroTitle": "National Highland Festival",
+    "heroSubtitle": "Azerbaijan's largest national festival",
+    "aboutSection": {
+      "title": "About Festival",
+      "description": "The National Highland Festival is Azerbaijan's largest and most interesting national festival. This festival is held to preserve our national culture, customs and traditions, and history."
+    },
+    "ozYurdunuQurSection": {
+      "title": "Build Your Camp",
+      "description": "Get the opportunity to participate in the festival by bringing your own tent and staying overnight. Connect with nature and create unforgettable memories."
+    },
+    "volunteerSection": {
+      "title": "Become a Volunteer",
+      "description": "Participate as a volunteer for the successful organization of the festival and become a member of a big family."
+    },
+    "latestNews": "Latest News",
+    "partners": "Festival Partners"
+  },
+  "about": {
+    "title": "About Festival",
+    "content": "The National Highland Festival is Azerbaijan's largest and most interesting national festival. This festival is held to preserve our national culture, customs and traditions, and history. During the festival, a rich cultural program, concerts, exhibitions and various activities are organized."
+  },
+  "program": {
+    "title": "Festival Program",
+    "day": "Day",
+    "time": "Time",
+    "event": "Event",
+    "location": "Location",
+    "description": "Description"
+  },
+  "news": {
+    "title": "News",
+    "noNews": "No news yet",
+    "publishedOn": "Published on",
+    "viewCount": "view count"
+  },
+  "partners": {
+    "title": "Partners",
+    "filterBy": "Filter by",
+    "all": "All",
+    "category": "Category"
+  },
+  "sponsorship": {
+    "title": "Sponsorship",
+    "content": "If you want to become a sponsor of the National Highland Festival, please contact us.",
+    "contactNumber": "Contact number: +994 XX XXX XX XX"
+  },
+  "pastFestivals": {
+    "title": "Past Festivals",
+    "noFestivals": "No past festival information yet"
+  },
+  "gallery": {
+    "title": "Photo/Video Gallery",
+    "sections": "Sections",
+    "noMedia": "No media files yet"
+  },
+  "ozYurdunuQur": {
+    "title": "Build Your Camp",
+    "subtitle": "Stay with your tent at the festival",
+    "form": {
+      "name": "Name",
+      "surname": "Surname",
+      "phone": "Phone Number",
+      "idPhoto": "ID Card Front Photo",
+      "namePlaceholder": "Enter your name",
+      "surnamePlaceholder": "Enter your surname",
+      "phonePlaceholder": "+994 XX XXX XX XX",
+      "chooseFile": "Choose file",
+      "submitButton": "Submit application"
+    },
+    "success": "Your application has been successfully submitted!",
+    "error": "An error occurred. Please try again."
+  },
+  "contact": {
+    "title": "Contact",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "socialMedia": "Social Media"
+  },
+  "footer": {
+    "description": "National Highland Festival - Azerbaijan's largest national festival",
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved"
+  }
+}
